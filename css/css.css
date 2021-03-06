@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.caja{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 150px;
+    background-color: green;
+
+}
+.caja.azul{
+    background-color: rgb(58, 58, 189);
+
+}
+.caja h1{
+    color: white;
+    text-align: center;
+    padding-top: 175px;
+}
+.boton{
+    width: 150px;
+    height: 60px;
+    margin-left: 700px;
+    margin-top: 50px;
+    background-color: gray;
+    color: white;
+    border-radius: 4px;
+}
